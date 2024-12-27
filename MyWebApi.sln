@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHelloWorld", "ApiHelloWorld\ApiHelloWorld.csproj", "{90152A87-A91E-4C71-A622-450FB476EECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiHelloWorld", "ApiHelloWorld\ApiHelloWorld.csproj", "{90152A87-A91E-4C71-A622-450FB476EECB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MyPoint", "MyPoint\MyPoint.sqlproj", "{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{90152A87-A91E-4C71-A622-450FB476EECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90152A87-A91E-4C71-A622-450FB476EECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90152A87-A91E-4C71-A622-450FB476EECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C745D7-6A60-4032-9CE0-3DBCC7BB9F13}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

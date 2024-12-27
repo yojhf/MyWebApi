@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KkFxFXoDuOw=",
+  "dgSpecHash": "5uOX5OLXiaM=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\MyWebApi\\ApiHelloWorld\\ApiHelloWorld.csproj",
+  "projectFilePath": "D:\\GitHub\\MyWeb\\ApiHelloWorld\\ApiHelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

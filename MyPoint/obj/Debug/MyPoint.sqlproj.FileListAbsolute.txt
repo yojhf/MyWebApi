@@ -1,0 +1,6 @@
+D:\GitHub\MyWeb\MyPoint\bin\Debug\MyPoint.dacpac
+D:\GitHub\MyWeb\MyPoint\bin\Debug\MyPoint.dll
+D:\GitHub\MyWeb\MyPoint\bin\Debug\MyPoint.pdb
+D:\GitHub\MyWeb\MyPoint\obj\Debug\MyPoint.sqlproj.AssemblyReference.cache
+D:\GitHub\MyWeb\MyPoint\obj\Debug\MyPoint.dll
+D:\GitHub\MyWeb\MyPoint\obj\Debug\MyPoint.pdb
