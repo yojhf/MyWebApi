@@ -1,0 +1,10 @@
+D:\GitHub\MyWeb\MyFive\bin\Debug\MyFive.dacpac
+D:\GitHub\MyWeb\MyFive\bin\Debug\MyFive.dll
+D:\GitHub\MyWeb\MyFive\bin\Debug\MyFive.pdb
+D:\GitHub\MyWeb\MyFive\obj\Debug\MyFive.sqlproj.AssemblyReference.cache
+D:\GitHub\MyWeb\MyFive\obj\Debug\Model.xml
+D:\GitHub\MyWeb\MyFive\obj\Debug\refactor.xml
+D:\GitHub\MyWeb\MyFive\obj\Debug\postdeploy.sql
+D:\GitHub\MyWeb\MyFive\obj\Debug\predeploy.sql
+D:\GitHub\MyWeb\MyFive\obj\Debug\MyFive.dll
+D:\GitHub\MyWeb\MyFive\obj\Debug\MyFive.pdb
